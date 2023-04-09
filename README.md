@@ -24,7 +24,7 @@ Output (response from the GPT-4 API):
 
 2. Edit an .env file in the root directory:
 ```.env:.env
-OPENAI_API_KEY=
+OPENAI_API_KEY={YOUR_KEY}
 LANGUAGE_CODE=ja
 MODEL_NAME=gpt-3.5-turbo
 ```
